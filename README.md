@@ -1,6 +1,9 @@
 # goecho
 Go echo service with json responce
 
+## Get the code to you $GOPATH
+> `go get  github.com/thilinapiy/goecho`
+
 ## Run the goecho service
 > `$ go get`
 > `$ go run server.go`
